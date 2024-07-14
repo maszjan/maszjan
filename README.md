@@ -18,6 +18,7 @@
 
 * <a href="swiezeklipy.pl">swiezeklipy.pl</a>
 * <a href="gnommy.store">gnommy.store</a>
+* <a href="chaintales.me">Chaintales</a>
 
 
 ### 🤝🏻🤝🏻🤝🏻 &nbsp;Badges
