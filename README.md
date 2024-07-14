@@ -16,9 +16,9 @@
 
   ### 🤝🏻🤝🏻 &nbsp;My projects
 
-* <a href="swiezeklipy.pl">swiezeklipy.pl</a>
-* <a href="gnommy.store">gnommy.store</a>
-* <a href="chaintales.me">Chaintales</a>
+* <a href="https://www.swiezeklipy.pl/">swiezeklipy.pl</a>
+* <a href="https://gnommy.store">gnommy.store</a>
+* <a href="https://chaintales.me/">Chaintales</a>
 
 
 ### 🤝🏻🤝🏻🤝🏻 &nbsp;Badges
