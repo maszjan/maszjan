@@ -1,4 +1,4 @@
-I'm a fullstack developer with approximately 1 year of commercial experience. I specialize in Laravel and React development.
+I'm a fullstack developer with approximately 1,5+ year of commercial experience. I specialize in Laravel and React development.
 
 ## Tech Stack
 <!-- Frontend -->
