@@ -1,4 +1,4 @@
-I'm a fullstack developer with approximately 1,5+ year of commercial experience. I specialize in Laravel and React development.
+I'm a fullstack developer with 2 years of commercial experience. I specialize in Laravel and React development.
 
 ## Tech Stack
 <!-- Frontend -->
@@ -45,8 +45,6 @@ I'm a fullstack developer with approximately 1,5+ year of commercial experience.
 <p>
 <a href="mailto:ma4shitm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maszjan" alt="maszjan" /></a> </p>
 
 
 
